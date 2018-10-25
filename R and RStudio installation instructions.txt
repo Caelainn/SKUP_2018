@@ -1,0 +1,52 @@
+INSTALLING PACKAGES FOR R CLASSES
+Caelainn Barr
+SKUP 2108, Oslo
+October	27, 2018
+
+For the R classes please install R and RStudio as outlined below. 
+Please note you will need administrator rights on your laptop to install and run R in class.
+
+FOR WINDOWS
+Install R:
+https://cran.uib.no/bin/windows/base/R-3.5.1-win.exe
+Download the latest version of R for Windows (R-3.5.1 “Feather Spray“ released 2018-07-02) from this link. Follow the installation instructions and install at the default location suggested by the package.
+
+Install RStudio:
+https://download1.rstudio.org/RStudio-1.1.456.exe
+Download RStudio (1.1.456 released 2018-07-19) from this link
+Follow the installation instructions and install at the default location suggested by the package.
+
+To ensure the downloads are complete and correct open RStudio.  
+When you have opened the package you should see the following in the bottom left pane:
+"R version 3.5.1 (2018-07-02) -- “Feather Spray“
+Copyright (C) 2018 The R Foundation for Statistical Computing"
+
+If this is the case installation is complete. 
+
+FOR MACS
+Install R:
+To install the correct version you need to check the version of OS X. 
+Do this by clicking on the Apple icon in the top left corner. 
+
+On the overview panel if the computer is running OS X 10.11 (El Capitan) or higher download the latest version of R for Mac (R-3.5.1 “Feather Spray” released on 2018-07-02) from this link.
+https://cran.uib.no/bin/macosx/R-3.5.1.pkg
+
+On the overview panel if the computer is running running an OS X package lower than "OS X 10.11" you'll need to install a different version of R. If the computer is running "OS X 10.9" (Mavericks) download this package of R for Mac (3.3.3) from this link.
+https://cran.uib.no/bin/macosx/R-3.3.3.pkg
+If the computer is running "OS X 10.6" (Snow Leopard) download this package of R for Mac (3.2.1) from this link. 
+https://cran.uib.no/bin/macosx/R-3.2.1-snowleopard.pkg
+
+Follow the installation instructions and install at the default location suggested by the package.
+
+Install RStudio:
+https://download1.rstudio.org/RStudio-1.1.456.dmg
+Download RStudio (1.1.456 released 2018-07-19) from this link
+Follow the installation instructions and install at the default location suggested by the package. It will also require a Mac OS X 10.6 operating system or higher. When you go to open the package, you will need to drag the new RStudio icon to Applications.
+
+To ensure the downloads are complete and correct open RStudio.  
+When you have opened the package you should see the following in the bottom left pane:
+"R version 3.5.1 (2018-07-02) -- “Feather Spray”
+Copyright (C) 2018 The R Foundation for Statistical Computing"
+Of if you have installed an earlier version of the package, such as R 3.3.3 or R 3.2.1 outlined above, the version code will appear in this window. 
+
+If this is the case installation is complete. 
